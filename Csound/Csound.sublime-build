@@ -1,0 +1,8 @@
+{
+	"cmd": [
+		"/usr/local/bin/csound",
+		"-odac",
+		"--nodisplays",
+		"$file"],
+	"selector": "source.csd"
+}

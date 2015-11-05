@@ -1,0 +1,5 @@
+[
+    { "command": "search_in_manual" },
+    { "command": "popup_hint" },
+    { "command": "open_in_csound_qt" }
+]
