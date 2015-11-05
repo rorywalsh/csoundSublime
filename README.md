@@ -2,7 +2,11 @@ This is an amalgamation and modification of two Sublime projects. The first is a
 
 ## Installation ##
 
- - Download the [zip-ball](https://github.com/shortcutme/Sublime-IntelliDocs/archive/master.zip) and unpack it to the Sublime packages folder
+ - Download the [zip-ball](https://github.com/shortcutme/Sublime-IntelliDocs/archive/master.zip) and unpack it to the Sublime packages folder:
+
+-Windows: %APPDATA%\Sublime Text 3
+-OS X: ~/Library/Application Support/Sublime Text 3
+-Linux: ~/.Sublime Text 3
 
 ## Usage ##
 
