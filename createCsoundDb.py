@@ -25,13 +25,13 @@ for line in inputFile:
 outputFile.write("}")
 outputFile.close()
 #now sort out trailing ,
-inputFile = open("csound.json")
+inputFile = open("db/csound.json")
 dbFile = inputFile.readlines()
 numberOfLines = len(dbFile)
 
 dbFile[numberOfLines-2] = "\t}\n"
 
-outputFile = open("csound.json", 'w')
+outputFile = open("db/csound.json", 'w')
 
 for lines in dbFile:
   outputFile.write("%s" % lines)
