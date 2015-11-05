@@ -1,17 +1,13 @@
-This is an amalgamation and modification of two Sublime projects. The first is a Csound syntax highlighter and build system posted to the Csound list by Takahiko TSUCHIYA. The second project is IntelliDocs (https://github.com/shortcutme/Sublime-IntelliDocs) which provides popup argument help by pressing F2. THis project has been modified so that it works with Csound source code. 
+This is an amalgamation and modification of two Sublime projects. The first is a Csound syntax highlighter and build system posted to the Csound list by Takahiko Tsuchiya. The second project is IntelliDocs (https://github.com/shortcutme/Sublime-IntelliDocs) which provides popup argument help by pressing F2. THis project has been modified so that it works with Csound source code. 
 
 ## Installation ##
 
- - Download the [zip-ball](https://github.com/shortcutme/Sublime-IntelliDocs/archive/master.zip) and unpack to `sublime\data\packages` OR via [packageControl](https://sublime.wbond.net/)
+ - Download the [zip-ball](https://github.com/shortcutme/Sublime-IntelliDocs/archive/master.zip) and unpack it to the Sublime packages folder
 
 ## Usage ##
 
-- Set your cursor over a function or object you want to look up and press F2 to see relevant documentation
+- Select the Csound build system if it is not auto-selected. Press Ctrl+b to run Csound, and press Ctrl+c to stop Csound. Press F2 when te cursor is placed on an opcode to show arguments. 
 
 
 ## Thanks to ##
- - Wonderful Devdocs.io for documents database
-
-
-## Suggestions are welcomed! Thank you! :) ##
- https://github.com/shortcutme/Sublime-IntelliDocs/issues/3
+Takahiko Tsuchiya for creating the Csound syntax highlighter, and https://github.com/shortcutme for creating the wonderful IntelliDocs system for Sublime Editor.  

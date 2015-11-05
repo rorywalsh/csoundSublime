@@ -1,8 +1,28 @@
 {
+    "windows": {
+	"cmd": [
+		"csound",
+		"-odac",
+		"--nodisplays",
+		"$file"],
+	"selector": "source.csd"
+    },
+
+	"linux": {
 	"cmd": [
 		"/usr/local/bin/csound",
 		"-odac",
 		"--nodisplays",
 		"$file"],
 	"selector": "source.csd"
+	},
+
+	"osx": {
+	"cmd": [
+		"/usr/local/bin/csound",
+		"-odac",
+		"--nodisplays",
+		"$file"],
+	"selector": "source.csd"
+	}
 }

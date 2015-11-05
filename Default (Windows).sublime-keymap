@@ -1,3 +1,4 @@
 [
-	{ "keys": ["f2"], "command": "intelli_docs" }
+	{ "keys": ["f2"], "command": "intelli_docs" },
+	{ "keys": ["ctrl+alt+c"], "command": "exec", "args": {"kill": true} }
 ]
