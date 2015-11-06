@@ -1,8 +1,0 @@
-[
-	// Basic drag select
-	{
-		"button": "button1", "count": 1,
-		"press_command": "drag_select",
-	    "command": "statusbar_hint"
-	}
-]
