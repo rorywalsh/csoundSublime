@@ -1,0 +1,18 @@
+{
+    "help_links": {
+        ".*": "http://devdocs.io/%s",
+        "php": "http://php.net/manual-lookup.php?pattern=%s",
+        "python": "http://docs.python.org/3/search.html?q=%s",
+        "jquery": "http://api.jquery.com/%s",
+        "csound": "http://csound.github.io/docs/manual/%s",
+        "javascript|dom": "https://developer.mozilla.org/en-US/search?topic=js&topic=html&topic=api&q=%s",
+    },
+    "docs": {
+        "source.php"    : "PHP",
+        "source.js"     : "Javascript",
+        "source.coffee" : "Javascript",
+        "source.python" : "Python",
+        "source.csound" : "Csound"
+    },
+    "css_file": "Intellitip/css/default.css"
+}
