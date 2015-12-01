@@ -10,9 +10,9 @@ https://github.com/jbrooksuk/Intellitip
 ## Installation ##
 
 Download the zip and unpack it to the Sublime packages folder:
- - Windows: %APPDATA%\Sublime Text 3
- - OSX: ~/Library/Application Support/Sublime Text 3
- - Linux: ~/.Sublime Text 3
+ - Windows: %APPDATA%\Sublime Text 3\Packages
+ - OSX: ~/Library/Application Support/Sublime Text 3/Pacakges
+ - Linux: ~/.Sublime Text 3/Packages
 
 ## Usage ##
 
