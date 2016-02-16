@@ -38,7 +38,7 @@
 			<key>comment</key>
 			<string>header opcodes</string>
 			<key>match</key>
-			<string>(sr|kr|ksmps|nchnls|0dbfs)\b</string>
+			<string>\b(sr|kr|ksmps|nchnls|0dbfs)\b</string>
 			<key>name</key>
 			<string>constant.language.csd</string>
 		</dict>
@@ -82,7 +82,7 @@
 			<key>comment</key>
 			<string>instr &amp; UDO</string>
 			<key>match</key>
-			<string>(instr|endin|opcode|endop)</string>
+			<string>\b(instr|endin|opcode|endop)\b</string>
 			<key>name</key>
 			<string>entity.name.tag.csd</string>
 		</dict>
